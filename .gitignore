@@ -1,3 +1,3 @@
 venv
 .env
-ingest_from_reddit.ipynb
+*.ipynb
